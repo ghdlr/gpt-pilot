@@ -162,6 +162,4 @@ cython_debug/
 
 # Logger
 /pilot/logger/debug.log
-
-# workspace
-workspace
+workspace/invoiceApp/node_modules
